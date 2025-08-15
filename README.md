@@ -27,9 +27,7 @@ Foram criados e avaliados diferentes modelos de classificação:
 
 | Modelo | Normalização | Motivo da Escolha |
 |--------|--------------|-------------------|
-| **KNN** | Sim | Modelo baseado em distância, sensível à escala. |
 | **Regressão Logística** | Sim | Bom para interpretar coeficientes e probabilidades. |
-| **Decision Tree** | Não | Fácil interpretação, não sensível à escala. |
 | **Random Forest** | Não | Modelo robusto e de alta performance para dados tabulares. |
 
 ### 4️⃣ Avaliação dos Modelos
